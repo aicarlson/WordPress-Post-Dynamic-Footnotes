@@ -1,0 +1,13 @@
+.plus {
+    float: right;
+    font-size: 3em;
+    color: #999;
+    position: absolute;
+    right: .25em;
+    bottom: .45em;
+    cursor:pointer;
+}
+.footnote_remove {
+	margin:0 0 0 10px;
+	cursor:pointer;
+}
