@@ -2,7 +2,7 @@
 /*
  * Plugin Name: Integrated Footnotes
  * Description: A WordPress plugin that integrates footnotes into the post content
- * Version: 0.1
+ * Version: 0.2
  * Author: Andrew Carlson
  * Author URI: http://ivanthevariable.com
  * License: GPL2
